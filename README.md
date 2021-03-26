@@ -1,1 +1,3 @@
-# MC_Valuation
+# Simulated Discounted Cash Flow (DCF) Valuation using Monte Carlo (MC) Simulation
+
+Discounted Cash Flow (DCF) is the most popular technique for a firm's valuation. However, conventional DCF valuation was created for mature, stable companies that yield stable growth and returns, with long-standing financial history and data. When the financial analysts discuss DCF valuation in the context of young growth companies one of its biggest weaknesses is that it does not account for the uncertainty and the lack of financial or operational data available for these firms. The goal of this paper is to build a probability-based approach towards young growth company valuation that uses Monte Carlo (MC) Simulation to integrate uncertainty and randomness.
